@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <title>Block Buster - Level 1</title>
 </head>
-  <body style="background-color: #80F1BE">
+  <body style="background-color: #A01B40">
 	<div  id="heading" >
          <h1 class="stroke-text">BLOCK BUSTER</h1> 
     </div>
@@ -33,7 +33,7 @@ echo "<table class='container'>
                   </tr>
 				   <tr>
                       <td style='background-color:#222222'><h2>&nbsp&nbsp App Version</h2></td>
-                      <td style='background-color:#222222'><h3>&nbsp&nbsp " . '7.8.0' . "</h3></td>
+                      <td style='background-color:#222222'><h3>&nbsp&nbsp " . '7.8.0 (minor color change)' . "</h3></td>
                   </tr>
 				  <tr>
                       <td style='background-color:#3C3C3C'><h2>&nbsp&nbsp What's new</h2></td>
